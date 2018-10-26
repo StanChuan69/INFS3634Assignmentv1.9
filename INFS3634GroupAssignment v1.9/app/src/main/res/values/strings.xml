@@ -5,32 +5,32 @@
 
     <!--APP MAIN PAGE TEXT-->
     <string name="mainPage1Title">Home Page</string>
-    <string name="mainPage2Text">The java programming language is object oriented, meaning is based around classes and objects. However, as students learning java we have all been at least slightly confused between these 4 fundamental concepts of APIE. This app aims to revise and solidify our understanding of these concepts to ensure we score the highest marks possible in our exams and build the best object oriented programs. </string>
+    <string name="mainPage2Text">The java programming language is object oriented, meaning is based around classes and objects. Because it can get confusing between the 4 fundemental concepts of APIE, this app aims to revise and solidify our understanding of these concepts to ensure we score the highest marks possible in our exams and build the best java programs. </string>
     <string name="mainPage3Text">Just to note, this app assumes basic knowledge of Java and OOP and is intended as a revision tool. Click on the navigation bar to start! </string>
 
     <!--ABSTRACTION FRAGMENT XML-->
     <string name="abstractionFragment1Title">ABSTRACTION</string>
     <string name="abstractionFragment2Text">Abstraction in Java OOP refers to only showing functionality and hiding internal details and implementation of classes. Click on the button below to watch a brief revision on abstraction. </string>
-    <string name="abstractionFragment3Review">How Did you find the video? Press back to return to the abstraction page.</string>
-    <string name="abstractionFragment4ReviewQuestions">FILLER CODE</string>
+    <string name="abstractionFragment3Review">Play the video in full screen for the best emersion! Press back to return to the abstraction page.</string>
+    <string name="abstractionFragment4ReviewQuestions">How did you find the video? In your own words, explain out loud what abstraction is in terms of object oriented programming. When you are ready, move on to the next concept, polymorphism!</string>
 
     <!--POLYMORPHISM FRAGMENT XML-->
     <string name="polymorphismFragment1Title">POLYMORPHISM</string>
     <string name="polymorphismFragment2Text">Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.</string>
-    <string name="polymorphismFragment3Review">How Did you find the video? Press back to return to the polymorphism page.</string>
-    <string name="polymorphismFragment4ReviewQustions">FILLER TEXT</string>
+    <string name="polymorphismFragment3Review">Play the video in full screen for the best emersion! Press back to return to the polymorphism page.</string>
+    <string name="polymorphismFragment4ReviewQustions"How did you find the video? In your own words, explain out loud what polymorphism is in terms of object oriented programming. When you are ready, move on to the next concept, inheritance!</string>
 
     <!--INHERITANCE FRAGMENT XML-->
     <string name="inheritanceFragment1Title">INHERITANCE</string>
     <string name="inheritanceFragment2Text">Inheritance is the mechanism by which a class acquires the properties and behaviours of its parent class.</string>
-    <string name="inheritanceFragment3Review">How Did you find the video? Press back to return to the abstraction page.</string>
-    <string name="inheritanceFragment4ReviewQuestions">FILLER CODE</string>
+    <string name="inheritanceFragment3Review">Play the video in full screen for the best emersion! Press back to return to the inheritance page.</string>
+    <string name="inheritanceFragment4ReviewQuestions">How did you find the video? In your own words, explain out loud what inheritance is in terms of object oriented programming. When you are ready, move on to the next concept, encapsulation!</string>
 
     <!--ENCAPSULATION FRAGMENT XML-->
     <string name="encapsulationFragment1Title">ENCAPSULATION</string>
     <string name="encapsulationFragment2Text">Encapsulation is a mechanism that wraps the variables and methods together as a single unit. A more common understanding of encapsulation is to hide the internal representation, or state,/implementation details of an object from users.</string>
-    <string name="encapsulationFragment3Review">How Did you find the video? Press back to return to the abstraction page.</string>
-    <string name="encapsulationFragment4ReviewQuestions">FILLER TEXT</string>
+    <string name="encapsulationFragment3Review">Play the video in full screen for the best emersion! Press back to return to the encapsulation page.</string>
+    <string name="encapsulationFragment4ReviewQuestions">How did you find the video? In your own words, explain out loud what encapsulation is in terms of object oriented programming. When you are ready, give the quiz a try to consolidate your learning!</string>
 
     ----------------------------------------------------------------------------------------------------
     <!--ALL THE OTHER STRING RESOURCES-->
